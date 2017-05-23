@@ -1,0 +1,9 @@
+C:\Users\George Stratulat\Documents\C#\FuckingChatProject\FuckingChatProject\bin\Debug\FuckingChatProject.exe.config
+C:\Users\George Stratulat\Documents\C#\FuckingChatProject\FuckingChatProject\bin\Debug\FuckingChatProject.exe
+C:\Users\George Stratulat\Documents\C#\FuckingChatProject\FuckingChatProject\bin\Debug\FuckingChatProject.pdb
+C:\Users\George Stratulat\Documents\C#\FuckingChatProject\FuckingChatProject\obj\Debug\FuckingChatProject.csprojResolveAssemblyReference.cache
+C:\Users\George Stratulat\Documents\C#\FuckingChatProject\FuckingChatProject\obj\Debug\FuckingChatProject.Form1.resources
+C:\Users\George Stratulat\Documents\C#\FuckingChatProject\FuckingChatProject\obj\Debug\FuckingChatProject.Properties.Resources.resources
+C:\Users\George Stratulat\Documents\C#\FuckingChatProject\FuckingChatProject\obj\Debug\FuckingChatProject.csproj.GenerateResource.Cache
+C:\Users\George Stratulat\Documents\C#\FuckingChatProject\FuckingChatProject\obj\Debug\FuckingChatProject.exe
+C:\Users\George Stratulat\Documents\C#\FuckingChatProject\FuckingChatProject\obj\Debug\FuckingChatProject.pdb
